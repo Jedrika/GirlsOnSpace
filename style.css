@@ -1,0 +1,37 @@
+body{
+    background-color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    color: #e1e1e1 ;
+    text-align: justify;
+}
+img{
+    width: 600px;
+    height: fit-content;
+    border-radius: 10%
+
+}
+.tirra{
+    border-radius: 25%;
+}
+.titleGOS{
+    font-family: 'Caprasimo', cursive;
+    font-size: 90px;
+    color: #0abebe;
+    text-align: center;
+
+}
+.menu3pz{
+    font-family: 'Caprasimo', cursive;
+    color: #4C9FC9;
+    text-align: center;
+
+}
+h3{
+    text-align: center;
+
+}   
+
+universo{
+    font-size: xx-large ;
+    color: #331a2c ;
+}
